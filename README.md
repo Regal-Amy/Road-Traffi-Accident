@@ -6,6 +6,7 @@
 - [Methodology](#methodology)
 - [Results](#results)
 - [Recommendations](#recommendations)
+- [Model](#model)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -76,6 +77,13 @@ Based on the distribution analysis of accident occurrences, the following recomm
 
 5. **Ongoing Data Analysis**:
    - Continuous analysis of accident data should be conducted to adapt strategies and measures in response to emerging trends, ensuring road safety efforts remain effective.
+
+## Model Storage
+Due to the large size of the model file (`rf_model.pkl`), it is not included in this repository. You can download the model from [this cloud storage link](link_to_your_cloud_storage).
+
+### Alternative Access
+If you prefer, you can also download the model from a cloud storage service such as Google Drive or Dropbox. Here is the link to access the model: [Download Model](link_to_your_cloud_storage).
+
 
 ## Installation
 To run this project, clone the repository and install the required libraries:
